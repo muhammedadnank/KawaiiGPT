@@ -5,7 +5,7 @@
 </div>
 
 - THIS TOOLS HAS BEEN CLOSED FROM ADMIN, AND IT'S NOW OPEN SOURCE, USE IT FOR LEARNING!.
-> Forum: [Telegram](https://t.me/kawaiigpt_official)
+> Forum: [Telegram](https://t.me/adnanxpkd)
 
 ## Use (Linux Distro)
 ---
@@ -13,7 +13,7 @@
 apt-get update && apt-get upgrade (if not updated and upgraded)
 apt install python3 && apt install python3-pip
 apt install git
-git clone https://github.com/MrSanZz/KawaiiGPT
+git clone https://github.com/muhammedadnank/KawaiiGPT
 cd KawaiiGPT
 python3 install.py
 python3 kawai.py
@@ -25,7 +25,7 @@ python3 kawai.py
 pkg update && pkg upgrade (if not updated and upgraded)
 pkg install python3
 pkg install git
-git clone https://github.com/MrSanZz/KawaiiGPT
+git clone https://github.com/muhammedadnank/KawaiiGPT
 cd KawaiiGPT
 python3 install.py
 python3 kawai.py
@@ -83,5 +83,5 @@ I never put any malicious code or even malicious software into my code/tools
 if it's obfuscated that means I just want to avoid recoding and selling
 --
 
-> Best regards, ```MrSanZz+Shoukaku07+FlamabyX5```
+> Best regards, ```MrSanZz+Shoukaku07+FlamabyX5+Adnan```
 Made with 🔥
